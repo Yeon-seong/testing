@@ -1,6 +1,21 @@
 # testing
 프론트엔드 연습용 리포지토리
 
+## 폴더 파일 구조
+```
+📦 
+├─ README.md
+├─ html
+│  └─ console.html
+├─ index.html
+├─ index.js
+├─ javascript
+│  └─ console.js
+├─ public
+│  └─ favicon.ico
+└─ reset.css
+```
+
 ## gitmoji
 ```
 🎉
