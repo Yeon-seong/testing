@@ -1,7 +1,7 @@
 # 프론트엔드 테스트
 - HTML, CSS, JavaScript, React, Redux 공부용 리포지토리 입니다.
 - index.html, reset.css, index.js 파일은 테스트용으로 폴더 최상단에 위치해야 합니다.
-- 연습한 코드는 반드시 개별 파일을 만들어서 커밋해야 합니다.
+- 연습한 코드는 반드시 개별 파일을 만들어서 커밋해야 합니다.(html, css, javascript, react 폴더 따로)
 
 ## 폴더 파일 구조
 ```
